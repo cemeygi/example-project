@@ -1,1 +1,1 @@
-# Example Project with Sass and Atomic Design
+# Example Project with Sass
