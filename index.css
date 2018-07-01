@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+}
+
+body .clear-float {
+  clear: both;
+}
+
+body header {
+  background: #F55145;
+  color: white;
+}
+
+body header #header-info {
+  float: left;
+  margin: 20px;
+}
+
+body header #header-info span {
+  margin-right: 10px;
+}
+
+body header #header-info span:hover {
+  color: black;
+  cursor: pointer;
+}
+
+body header #header-icons {
+  float: right;
+  margin: 20px;
+}
+
+body header #header-icons span {
+  margin-right: 10px;
+}
+
+body header #header-icons span:hover {
+  color: black;
+  cursor: pointer;
+}
+
+body nav {
+  background: black;
+  color: white;
+}
+
+body nav #logo {
+  font-size: 35px;
+  float: left;
+  margin: 25px;
+  color: white;
+  text-decoration: none;
+}
+
+body nav .navbar {
+  float: right;
+  margin: 20px;
+  list-style: none;
+}
+
+body nav .navbar li {
+  display: inline-block;
+  margin: 12px;
+}
+
+body nav .navbar li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+body footer {
+  background: #F55145;
+  color: white;
+}
+
+body footer #copyright ul {
+  float: left;
+  margin: 10px;
+  list-style: none;
+}
+
+body footer #copyright ul li {
+  display: inline-block;
+  margin: 5px;
+}
+
+body footer #copyright p {
+  float: right;
+}
+
+body footer #copyright p span {
+  margin: 10px;
+}
+/*# sourceMappingURL=index.css.map */
