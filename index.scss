@@ -21,7 +21,7 @@ body {
             float: right;
             margin: 20px;
             span {
-                margin-right: 10px;
+                margin-right: 20px;
                 &:hover {
                     color: black;
                     cursor: pointer;
@@ -60,7 +60,8 @@ body {
         #copyright {
             ul {
                 float: left;
-                margin: 10px;
+                padding: 0;
+                margin:10px  20px;
                 list-style: none;
                 li {
                     display: inline-block;
@@ -69,6 +70,7 @@ body {
             }
             p {
                 float: right;
+                margin: 15px 20px;
                 span {
                     margin: 10px;
                 }
